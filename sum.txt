@@ -1,4 +1,5 @@
-a=int(input("enter the value of a"))
-b=int(input("enter the value of b "))
-sum=a+b
+a=90
+b=16
+c=59
+sum=a+b+c
 print(sum)
